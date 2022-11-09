@@ -29,7 +29,7 @@ String sheetTemp = "";
 //const char* ssid = "888";                //replace with our wifi ssid
 //const char* password = "asdfghjkl";         //replace with your wifi password
 const char* ssid = "Arm-etd";                //replace with our wifi ssid
-const char* password = "0910607802";         //replace with your wifi password
+const char* password = "vvvvvvvv";         //replace with your wifi password
 
 const char* host = "script.google.com";
 const char *GScriptId = "AKfycbxJw4Kr8WI7DkNTHCZNK8sry44aLmzEWr3pmArAQ_ocEdicgFw"; // Replace with your own google script id
